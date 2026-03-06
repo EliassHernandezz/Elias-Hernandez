@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 IT student | Junior Developer  <br>☕ Java • 🗄️ SQL • 🐍 Python  <br>🌱 Learning GeneXus v18  <br>🧪 Building small projects focused on backend logic and data management  <br>🚀 Always learning by doing<br>
+👨‍💻 IT student | Junior Developer  <br>☕ Java • 🗄️ SQL • 🐍 Python  <br>🌱 GeneXus 18 Junior Analyst  <br>🧪 Building small projects focused on backend logic and data management  <br>🚀 Always learning by doing<br>
 
 
 ## 🌐 Socials:
